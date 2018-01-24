@@ -2,6 +2,7 @@
 
 [![GoDoc](https://godoc.org/github.com/lib/pq?status.svg)](https://godoc.org/github.com/lib/pq)
 [![Build Status](https://travis-ci.org/lib/pq.svg?branch=master)](https://travis-ci.org/lib/pq)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fcanv15%2Fpq.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fcanv15%2Fpq?ref=badge_shield)
 
 ## Install
 
@@ -104,3 +105,7 @@ code still exists in here.
 * TruongSinh Tran-Nguyen (truongsinh)
 * Yaismel Miranda (ympons)
 * notedit (notedit)
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fcanv15%2Fpq.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fcanv15%2Fpq?ref=badge_large)
